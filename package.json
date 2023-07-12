@@ -1,0 +1,30 @@
+{
+  "name": "instagram-save-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Resen22194/instagram-save-downloader.git"
+  },
+  "keywords": [
+    "instagram",
+    "downloader"
+  ],
+  "author": "Resen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Resen22194/instagram-save-downloader/issues"
+  },
+  "homepage": "https://github.com/Resen22194/instagram-save-downloader#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-progress": "^3.12.0",
+    "instagram-private-api": "^1.45.3",
+    "request-promise": "^4.2.6"
+  }
+}

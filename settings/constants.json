@@ -1,0 +1,10 @@
+{
+    "paths": {
+        "account_posts_logs": "./saves/logs/account-posts",
+        "account_posts_downloads": "./saves/downloads/account-posts",
+        "saved_posts_logs": "./saves/logs/saved-posts",
+        "saved_posts_downloads": "./saves/downloads/saved-posts",
+        "single_posts_downloads": "./saves/downloads/single-posts",
+        "account_stories_downloads": "./saves/downloads/account-stories"
+    }
+}

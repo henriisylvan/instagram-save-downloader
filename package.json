@@ -1,11 +1,10 @@
 {
   "name": "instagram-save-downloader",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small program for various types of Instagram media downloads",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "(clear || cls) && (bash start.sh || ((clear || cls) && node index.js --color))"
   },
   "repository": {
     "type": "git",
@@ -24,7 +23,10 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "cli-progress": "^3.12.0",
+    "crypto-js": "^4.1.1",
+    "instagram-id-to-url-segment": "^0.0.0",
     "instagram-private-api": "^1.45.3",
-    "request-promise": "^4.2.6"
+    "request-promise": "^4.2.6",
+    "spinnies": "^0.5.1"
   }
 }

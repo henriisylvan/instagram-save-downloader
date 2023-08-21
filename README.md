@@ -1,14 +1,3 @@
-<p align="center">
-    <a href="https://github.com/Resen22194">
-        <img src="https://img.shields.io/badge/Author-Resen-399?style=for-the-badge&logo=github" alt="Author" width="170">
-    </a>
-    <a href="https://instagram.com/resen_komeiji">
-        <img src="https://img.shields.io/badge/Instagram-c34?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="131">
-    </a>
-</p>
-
----
-
 # Instagram Save Downloader
 
 A small program for various types of Instagram media downloads.

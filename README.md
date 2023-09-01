@@ -78,3 +78,14 @@ This project is licensed under the **GNU General Public License v3.0** - see the
 ## Final considerations
 
 I'm a beginner in the world of programming, so I'm willing to receive constructive criticism about errors or possible improvements in my code, which can help me improve in this area.
+
+## Support me 💛
+
+Feel free if you want to support me financially.
+
+<a href="https://tipa.ai/resen" target="_blank">
+    <img src="./src/images/tipaai-badge.png" alt="Tipa.ai Badge">
+</a>
+<a href="https://ko-fi.com/resen" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi Badge">
+</a>

@@ -3,3 +3,4 @@ package-lock.json
 saves
 settings/*
 !settings/constants.json
+.vscode

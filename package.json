@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/resenkkomj/instagram-save-downloader.git"
+    "url": "git+https://github.com/henriisylvan/instagram-save-downloader.git"
   },
   "keywords": [
     "instagram",
@@ -21,9 +21,9 @@
   "author": "Resen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/resenkkomj/instagram-save-downloader/issues"
+    "url": "https://github.com/henriisylvan/instagram-save-downloader/issues"
   },
-  "homepage": "https://github.com/resenkkomj/instagram-save-downloader#readme",
+  "homepage": "https://github.com/henriisylvan/instagram-save-downloader#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "cli-progress": "^3.12.0",
